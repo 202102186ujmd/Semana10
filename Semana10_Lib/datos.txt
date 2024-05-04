@@ -1,0 +1,4 @@
+driver=com.mysql.cj.jdbc.Driver
+usuario=prc4
+clave=prc4
+url=jdbc:mysql://localhost:3306/prc4_2024 ?useSSL=false
